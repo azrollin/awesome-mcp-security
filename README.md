@@ -137,6 +137,7 @@ Official Security Considerations from the [Official MCP Specification Rev: 2025-
 - [MCP Tool Poisoning Experiments by invariantlabs-ai](https://github.com/invariantlabs-ai/mcp-injection-experiments)
 - [Google Security Operations and Threat Intelligence MCP Server - Access Google's security products and services](https://github.com/google/mcp-security)
 - [MCP Watch - Vulnerability scanner for MCP servers](https://github.com/kapilduraphe/mcp-watch)
+- [Sunglasses - Runtime trust scanner that checks MCP tool descriptions, skills, and prompts against 1,089 patterns in 65 attack categories (tool poisoning, discovery file poisoning, tool metadata smuggling)](https://github.com/sunglasses-dev/sunglasses)
 - [MCP Security Checklist: A Security Guide for the AI Tool Ecosystem by SlowMist](https://github.com/slowmist/MCP-Security-Checklist)
 - [workers-mcp - Connect Cloudflare Workers with your MCP clients by Cloudflare](https://github.com/cloudflare/workers-mcp)
 - [MCP Gateway - Acts as intermediary between LLMs and other MCP servers by lasso-security](https://github.com/lasso-security/mcp-gateway)
